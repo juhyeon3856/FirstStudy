@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>02_Project2_servlet</name>
+	<name>02_Project2_Servlet</name>
 	<comment></comment>
 	<projects>
 		<project>taglibs-standard-impl-1.2.5</project>
